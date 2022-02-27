@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament, for thirty thousand pounds with interest, to be paid out of the excize, to the committee of Lords and Commons for the Easterne Association, for the forces of that Association, imployed in reducing of Newarke, and other services.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83550</idno>
+            <idno type="STC">Wing E2408B</idno>
+            <idno type="STC">ESTC R205513</idno>
+            <idno type="EEBO-CITATION">47682754</idno>
+            <idno type="OCLC">ocm 47682754</idno>
+            <idno type="VID">172893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament, for thirty thousand pounds with interest, to be paid out of the excize, to the committee of Lords and Commons for the Easterne Association, for the forces of that Association, imployed in reducing of Newarke, and other services.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpieces; initials.</note>
+                  <note>Reproduction of original in: Birmingham Central Reference Library (Birmingham, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172893:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>Two ORDINANCES OF THE LORDS and COMMONS Aſſembled in PARLIAMENT, For Thirty thouſand pounds with Intereſt, to be paid out of the Excize, to the Committee of Lords and Commons for the Eaſterne Aſſociation.</p>
+            <p>For the Forces of that Aſſociation, imployed in reducing of <hi>Newarke,</hi> and other Services.</p>
+            <p>
+               <hi>Jo. Brown, Cler. Parliamentorum.</hi>
+            </p>
+            <p>
+               <hi>Hen. Elſynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:172893:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="1" facs="tcp:172893:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>
+               <date>Die Martis, <hi>22</hi> Februarii, <hi>1647.</hi>
+               </date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of the twenty eighth of <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty five, there was charged upon the Exciſe in courſe the ſumme of twen<g ref="char:EOLhyphen"/>ty thouſand pounds with intereſt, after the rate of eight, pounds <hi>per centum,</hi> payable for the uſe of the three Regiments of Horſe, date un<g ref="char:EOLhyphen"/>der the ſeverall commands of Major <hi>Haynes</hi> Major <hi>Le-Hunt,</hi> and Major <hi>Gibb,</hi> and of Cap<g ref="char:EOLhyphen"/>taine <hi>Wayletts</hi> Company of Dragoones raiſed, ſent out, and maintained by the Eaſterne Aſ<g ref="char:EOLhyphen"/>ſociation. And whereas the Committee of Lords and Commons for the Eaſterne Aſſoci<g ref="char:EOLhyphen"/>ation was contented, and did agree that the ſame ſhould be iſſued forth, and diſpoſed of for the preſent ſupply of the Army; And by
+<pb n="2" facs="tcp:172893:3"/>
+               <!-- PDF PAGE 43 -->an Ordinance of the eighth day of <hi>December</hi> laſt, it was thereupon Ordained and Declared, That in ſatisfaction of the ſaid Agreement, the ſaid twenty thouſand pounds with intereſt, due on the firſt of <hi>March</hi> next, ſhall be re<g ref="char:EOLhyphen"/>paid by Sir <hi>John Wollaſton,</hi> and the reſt of the Treaſurers at Warre out of the Receipts and Aſſeſſements for the Army upon the firſt of <hi>March</hi> next, to ſuch Treaſurers as the ſaid Committee ſhall appoint. And whereas the preſent neceſſities of the Navie are ſo preſſing that the ſame require a ſpeedy ſupply of Mo<g ref="char:EOLhyphen"/>nies, without which thoſe affaires cannot be carried on; And the ſaid Committee for the Eaſterne Aſſociation is contented, and doe a<g ref="char:EOLhyphen"/>gree, That the ſaid twenty thouſand pounds ſhall be forborne, and be paid and imployed for the uſe of the Navie:</p>
+            <p>Be it Ordained by the Lords and Commons Aſſembled in Parliament, That the ſaid Trea<g ref="char:EOLhyphen"/>ſurers of Warre ſhall have hereby power to pay the ſaid twenty thouſand pounds unto Sir <hi>Henry Vane</hi> junior, Knight, Treaſurer of the Navie for the uſe of the Navie, upon War<g ref="char:EOLhyphen"/>rant from the Committee of the Army, or any five of them directed to the Treaſurers at Warres; the which Committee of the Army is hereby required to iſſue their VVarrant to the ſame purpoſe accordingly, and that the Receipt or Receipts of the ſaid Sir <hi>Henry Vane</hi> ſhall be to the ſaid Treaſurers at VVarre their
+<pb n="3" facs="tcp:172893:3"/>
+               <!-- PDF PAGE 43 -->ſufficient diſcharge. And the ſaid Treaſurers at VVarre are hereby Ordered and requi<g ref="char:EOLhyphen"/>red without any further or other VVarrant then as aforeſaid, to pay the intereſt due for the ſaid twenty thouſand pounds to the firſt of <hi>March</hi> next, unto the Committee for the Eaſterne Aſſociation, or to ſuch Trea<g ref="char:EOLhyphen"/>ſurer as they ſhall appoint to receive the ſame, whoſe Receipt or Receipts ſhall be to the ſaid Treaſurer at VVarre their ſufficient diſcharge.</p>
+            <p>And whereas both Houſes of Parliament did by their Order of the twenty eighth of <hi>May,</hi> 1647. charge upon the Receipt of the Grand Exciſe in courſe, the ſumme of one hundred and fifty thouſand pounds pay<g ref="char:EOLhyphen"/>able to the ſaid Treaſurers at VVarre, for payment of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arreares due to the inferi<g ref="char:EOLhyphen"/>our Officers, and Souldiers of the Army, un<g ref="char:EOLhyphen"/>der the Command of Sir THOMAS FAIR<g ref="char:EOLhyphen"/>FAX, for which the ſaid Houſes of Parlia<g ref="char:EOLhyphen"/>ment having ſince made other proviſion, did thereupon Order the firſt of <hi>February</hi> laſt, That the firſt ſeventy thouſand pounds, part of the ſaid one hundred and fifty thouſand pounds as the ſame ſhall grow due in courſe, be paid unto the ſaid Treaſurer of the Na<g ref="char:EOLhyphen"/>vie, for the uſe of the Navie.</p>
+            <p>Be it therefore further Ordained, and Declared by the Authority aforeſaid, That in ſatisfaction of the ſaid Agreement of the
+<pb n="4" facs="tcp:172893:4"/>
+               <!-- PDF PAGE 44 -->Committee for the Eaſterne Aſſociation, and for their ſecurity the ſaid twenty thouſand pounds which was payable to them upon the firſt of <hi>March</hi> next as aforeſaid, ſhall be re<g ref="char:EOLhyphen"/>paid by the Commiſſioners of Exciſe out of the firſt Monies of the ſaid ſeventy thou<g ref="char:EOLhyphen"/>ſand pounds aſſigned to the Navie, part of the ſaid one hundred and fifty thouſand pounds charged upon the Exciſe in courſe, and formerly aſſigned to the Army as afore<g ref="char:EOLhyphen"/>ſaid, and that intereſt for the ſaid twenty thouſand pounds after the rate of eight pounds <hi>per centum,</hi> be paid every ſix Moneths, and doe begin from the firſt of <hi>March</hi> next, and be continued for ſo long time as the ſaid twe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty thouſand pounds ſhall be forborne, and till the ſame ſhall fall due and be paid in courſe as aforeſaid; And the Commiſſioners of Exciſe for the time being ſhall have pow<g ref="char:EOLhyphen"/>er, and are hereby authorized and required, to make payment of the ſaid twenty thou<g ref="char:EOLhyphen"/>ſand pounds, and the intereſt thereof as above<g ref="char:EOLhyphen"/>ſaid, unto the ſaid Committee of Lords and Commons for the Eaſterne Aſſociation, or to ſuch Treaſurer as they ſhall appoint to re<g ref="char:EOLhyphen"/>ceive the ſame; whoſe Receipt or Receipts ſhall be to the Commiſſioners of Exciſe their full and ſufficient diſcharge in that be<g ref="char:EOLhyphen"/>halfe.</p>
+            <p>And it is likewiſe Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid; That the ſaid twenty thou<g ref="char:EOLhyphen"/>ſand
+<pb n="5" facs="tcp:172893:4"/>
+               <!-- PDF PAGE 44 -->pounds, and the interest thereof due to the firſt of <hi>March</hi> next, and payable by the Treaſurers at VVarre as aforeſaid, and like<g ref="char:EOLhyphen"/>wiſe the intereſt thereof to begin from the firſt of <hi>March</hi> next, and payable by the Com<g ref="char:EOLhyphen"/>miſſioners of Exciſe as aforeſaid, ſhall be iſſued and paid out by VVarrant from the ſaid Committee of Lords and Commons for the Eaſterne Aſſociation, or of any five, or more of them, who have hereby a power to grant forth their VVarrants accordingly for payment thereof, as well for the re-imburſ<g ref="char:EOLhyphen"/>ment of all ſuch ſummes of moneys with in<g ref="char:EOLhyphen"/>tereſt for the ſame, as ſhall appeare to the ſaid Committee to have been advanced and lent, or paid for maintaining of the ſaid three Regiments of Horſe, and Company of Dragoones in the ſervice againſt <hi>Newarke,</hi> upon the Ordinance of 28. <hi>February</hi> 1645. firſt above mentioned, and for ſatisfaction of ſuch dammages as ſhall alſo appeare to the ſaid Committee to have been ſuſtained by the Committees of the ſeverall Counties of the Eaſterne Aſſociation, or by any of them in the loſſe of Horſes, Armes, and Furniture by them provided, for the furniſhing of the ſaid Horſe and Dragoones for the ſaid ſer<g ref="char:EOLhyphen"/>vice, as alſo for payment and ſatisfaction of the Arreares which ſhall appeare to the ſaid Committee to be due for the pay of ſuch Officers and Souldiers of the ſaid Regiments of
+<pb n="6" facs="tcp:172893:5"/>
+               <!-- PDF PAGE 45 -->Horſe, and Company of Dragoones as have ſerved in reducing of <hi>Newarke,</hi> and that the ſaid twenty thouſand pounds and intereſt may be iſſued and paid according to the true intent and meaning of this Ordinance.</p>
+            <p>It is alſo Ordained, That the ſaid Com<g ref="char:EOLhyphen"/>mittee for the Eaſterne Aſſociation, or any five of them ſhall have power and authority, and are hereby authorized and enabled by themſelves, and ſuch as they have or ſhall appoint, and by ſuch waies and meanes as they, or any five of them ſhall thinke fit to take; ſtate, audit, and determine as well the Accompts of all the ſaid Officers and Souldi<g ref="char:EOLhyphen"/>ers for their pay, as well due upon the pub<g ref="char:EOLhyphen"/>lique Faith, as for their preſent pay during the time of their ſaid ſervice; as alſo the Accompts of all Treaſurers, and others that are to receive any proportion of the ſaid ſumme of twenty thouſand pounds, and in<g ref="char:EOLhyphen"/>tereſt by the appointment of the Committees of the Counties in the ſaid Aſſociation as aforeſaid.</p>
+            <p>And it is further Ordained, That the ſaid Committee for the Eaſterne Aſſociation may reward, and pay ſuch perſon or perſons as they have or ſhall imploy for the better exe<g ref="char:EOLhyphen"/>cution of this ſervice for their paines and charges out of the ſaid ſummes, or of any other Treaſure in their diſpoſe as they ſhall thinke fit.</p>
+            <pb n="7" facs="tcp:172893:5"/>
+            <!-- PDF PAGE 45 -->
+            <p>And further it is Ordained; That the ſaid Committee ſhall adminiſter an Oath, which they have hereby power for to doe, as well to ſuch perſons as are to paſſe their Accompts be<g ref="char:EOLhyphen"/>fore them as aforeſaid; as alſo to all other per<g ref="char:EOLhyphen"/>ſons upon all other Accompts within ſurvey of the ſaid Committee for the better clearing the truth thereof.</p>
+            <p>Provided alwaies, That neither this preſent Ordinance, nor any thing therein contained ſhall extend to the prejudice of the making voyd of an Order of the Houſe of Commons, made the three and twentieth of <hi>December</hi> laſt paſt, for the payment of ſixteen hundred ſixty three pounds unto Captaine <hi>Edward Wingate,</hi> which ſaid Order is hereby confirmed.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+               <signed>Hen. Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="8" facs="tcp:172893:6"/>
+            <!-- PDF PAGE 46 -->
+            <head>
+               <date>Die Martis <hi>22</hi> Februarii <hi>1647.</hi>
+               </date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Commit<g ref="char:EOLhyphen"/>tees of the ſeverall Counties of <hi>Nor<g ref="char:EOLhyphen"/>folke, Suffolke, Eſſex, Huntington, Herts, Cambridge,</hi> and the Iſle of <hi>Ely,</hi> and the City and County of <hi>Norwich,</hi> have by themſelves and others advanced, pay<g ref="char:EOLhyphen"/>ed, and lent great ſummes of Money for payment of the Regiments of Horſe and other Forces lately imployed un<g ref="char:EOLhyphen"/>der the ſeverall commands of Ma<g ref="char:EOLhyphen"/>jor <hi>Heynes,</hi> Major <hi>Le-Hunt,</hi> and Major <hi>Gibb,</hi> and of Captaine <hi>Wayletts</hi>
+               <pb n="9" facs="tcp:172893:6"/>
+               <!-- PDF PAGE 46 -->company of Dragoones, and no ſatiſ<g ref="char:EOLhyphen"/>faction or ſecurity as yet hath been gi<g ref="char:EOLhyphen"/>ven for the ſame, the charge thereof being computed to amount to ten thou<g ref="char:EOLhyphen"/>ſand pounds:</p>
+            <p>Be it Ordained by the Lords and Commons in Parliament aſſembled, That the ſum of ten thouſand pounds with intereſt for the ſame, after the rate of eight pounds <hi>per Cent.</hi> payable ever ſix moneths, be charged upon the grand Exciſe in courſe, and the Com<g ref="char:EOLhyphen"/>miſſioners of Exciſe for the time being are hereby authorized and required to make payment of the ſaid ten thou<g ref="char:EOLhyphen"/>ſand pounds as the ſame ſhall grow due in Courſe and Intereſt for the ſame after the rate of eight pounds <hi>per Cent.</hi> payable every ſix moneths, and to begin from the firſt of <hi>March</hi> next for ſo long as the ſame ſhall be forborne unto the ſaid Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for the Eaſterne Aſſociation or to
+<pb n="10" facs="tcp:172893:7"/>
+               <!-- PDF PAGE 47 -->ſuch Treaſurer as they ſhall appoint to receive the ſame, whoſe Receipt or Receipts ſhall be to the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners of Exciſe their full and ſuffici<g ref="char:EOLhyphen"/>ent diſcharge, which Committee for the Eaſterne Aſſociation, or any five or more of them have hereby a power to grant forth their Warrants for payment of the ſaid ten thouſand pounds and Intereſts for the uſes above mentioned.</p>
+            <closer>
+               <signed>Joh. Browne Cler. Parliamentorum.</signed>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172893:7"/>
+            <!-- PDF PAGE 47 -->
+         </div>
+      </body>
+   </text>
+</TEI>
